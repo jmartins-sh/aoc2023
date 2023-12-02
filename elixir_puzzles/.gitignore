@@ -20,7 +20,7 @@ erl_crash.dump
 *.ez
 
 # Ignore package tarball (built via "mix hex.build").
-day_01-*.tar
+elixir_puzzles-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
